@@ -1,6 +1,5 @@
 // API à utiliser pour le travail: https://randomuser.me/api/?results=5
 
-// 5 fiches en affichant la photo, le nom et le courriel
 
 
     fetch('https://randomuser.me/api/?results=5')
